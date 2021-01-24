@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    text-align: center;
 }
 h1 {
     font-family: Verdana;
@@ -8,13 +9,44 @@ h1 {
     color: white;
     text-align: center;
 }
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+#par {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
 #glob {
     margin-left: auto;
     margin-right: auto;
     width: 300px;
     text-align: center;
 }
+#vid {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+    margin-bottom: 21px;
+    width: 500px;
+    text-align: center;
+}
 div#glob a {
     color: Aquamarine;
     font-size: 16px;
 }
+#img-1, #img-1 {
+    margin: 30px 0;
+}
+.footer{
+    text-align: right;
+}
+div.footer p {
+    color: gray;
+    font-size: 21px;
+}
+
+
